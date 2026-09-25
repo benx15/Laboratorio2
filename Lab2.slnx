@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="Ejercicio15/Ejercicio15.vcxproj" />
+  <Project Path="Ejercicio22/Ejercicio22.vcxproj" />
 </Solution>
